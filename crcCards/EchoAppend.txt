@@ -1,0 +1,11 @@
+Class name: EchoAppend
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Creates a new file with specified name if there does not exists such file in the given directory
+* Appends text given by the user to the text of the file
+
+Collaborators:
+* ChangeDirectory
+* File

@@ -1,0 +1,17 @@
+| As a user, I want to be able to remove a directory including its files and children directories from the file system, so that I can remove it when I no longer need it 				| 2 hours     |
+| As a user, I want to be able to move a file or directory into another directory, so that I can organize my file system                                                 				| 2 hours     |
+| As a user, I want to be able to copy and paste a file or directory into another directory, so that I can make a backup for an important item                           				| 3 hours     |
+| As a user, I want to be able to save a Jshell session to a given file stored in my computer so that I can access the session later on. 				 				| 8 - 9 hours |
+| As a user, I want to be able to load a previously saved JShell session from a given file so that I can resume where I left off previously. 				 				| 4 - 5 hours |
+| As a user, I want to be able to save the output of a command in a file, so that I can access it later.   								 				| 2 - 4  hours|
+| As a user, I want to be able to search for a file with a specific name inside a directory specified by a path, so that I can check if a file exists within a directory. 				| 3 - 4 hours |
+| As a user, I want to be able to search for a file with a specific name inside multiple directories specified by multiple paths, so that I can check if a file exists within those directories.	| 2 - 3 hours |
+| As a user, I want to be able to search for a directory with a specific name inside another directory specified by a path, so that I can check if a directory exists within a directory   		| 2 - 3 hours |
+| As a user, I want to be able to search for a directory with a specific name inside other directories specified by multiple paths, so that I can check if a directory exists within those directories. | 2 - 3 hours |
+| As a user, I want to be able to display the entire file system as a tree, so that I can see the graphical layout of the filesystem.                                                                   | 3 - 4 hours |
+| As a user, I want to be able to retrieve a file from a specified URL website and store the retrieved file on the current working directory.                                                           | 5 - 8 hours |
+| As a user, I want to be able to print the contents of a directory and recursively print the content of the directories within that directory, so that I can see all items within the directory.  	| 4 - 5 hours |
+| As a user, I want to be able to print the path and contents of a directory so that I can see the items within that directory.  									| 2 hours     |
+| As a user, I want to be able to see the documentation for a single command so that I can understand how to use that command.   									| 6 - 8 hours |
+| As a user, I want to be able to create one or multiple directories each specified by a path, so that I can store and organize files and directories.  						| 3 - 4 hours |
+| As a user， I want to be able to display the content of multiple files on the console so that I can see what is inside them. 										| 3 hours     |

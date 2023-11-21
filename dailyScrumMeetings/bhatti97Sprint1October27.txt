@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - completed the initial code for MakeDirectory, ChangeDirectory, File classes.
+    - added the feature of continuous prompting to JShell class.
+    - discussed the Directory and Path classes with the team.
+
+What do I plan to work in the next three days?
+    - start designing EchoOverwrite and EchoAppend classes for next sprint.
+    - Finalize the code created during this sprint.
+
+Am I blocked on anything?
+    - Directory class to be committed to the repository.

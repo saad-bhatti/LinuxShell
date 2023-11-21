@@ -1,0 +1,96 @@
+Sprint 1 Backlog.
+November 16 to November 22
+
+User Stories from Product Backlog that we will address in this sprint:
+a. As a user, I want to be able to remove a directory including its files and children directories from the file system, so that I can remove it when I no longer need it.
+b. As a user, I want to be able to copy and paste a file or directory into another directory, so that I can make a backup for an important item.
+c. As a user, I want to be able to search for a directory with a specific name inside another directory specified by a path, so that I can check if a directory exists within a directory   
+d. As a user, I want to be able to search for a file with a specific name inside a directory specified by a path, so that I can check if a file exists within a directory.
+e. As a user, I want to be able to search for a file with a specific name inside multiple directories specified by multiple paths, so that I can check if a file exists within those directories.
+f. As a user, I want to be able to create one or multiple directories each specified by a path, so that I can store and organize files and directories.
+g. As a user, I want to be able to display the entire file system as a tree, so that I can see the graphical layout of the filesystem.
+h. As a user, I want to be able to retrieve a file from a specified URL website and store the retrieved file on the current working directory.
+i. As a user, I want to be able to save a Jshell session to a given file stored in my computer so that I can access the session later on.
+j. As a user, I want to be able to see the documentation for a single command so that I can understand how to use that command.
+k. As a user, I want to be able to search for a directory with a specific name inside other directories specified by multiple paths, so that I can check if a directory exists within those directories.
+
+Specific tasks to be accomplished:
+a-1. (RemoveDirectory) Make the CRC-card for RemoveDirectory class
+a-2. (RemoveDirectory) Learn how to recursively apply the algorithm to the children directories
+a-3. (Verify) Edit the Verify Class to check whether RemoveDirectory parameters are valid
+a-4. (Prepare) Add a method to Prepare Class that prepares parameters for RemoveDirectory
+a-5. (Execute) Edit the Execute Class to allow execution of RemoveDirectory command
+a-6. (RemoveDirectory) Design the remove directory in current directory functionality for the RemoveDirectory class
+a-7 (RemoveDirectory) Write JavaDoc for RemoveDirectory class
+a-8 (RemoveDirectory) Write the JUnit Tests for RemoveDirectory class
+a-9  (RemoveDirectory) Write the performOperation method for RemoveDirectory class
+b-1. (Copy) Make the CRC-card for Copy class 
+b-2. (Prepare) Add a method to Prepare Class that prepares the parameters for Copy
+b-3. (Verify) Edit the Verify Class to check whether Copy parameters are valid
+b-4. (Execute) Edit the Execute Class to allow execution of Copy command
+b-5. (Copy) Write the method to allow copying a file into a directory 
+b-6. (Copy) Write the method to recursively copy one directory inside another
+b-7. (Copy) Write a method to overwrite the contents of an existing file from the given file
+b-8. (Copy) Write a method to create a new file and to copy the contents of the existing file
+b-9. (Copy) Write a method to return an error if the user attempts to copy a directory into a file
+b-10. (Copy) Write a method to return an error if the user attempts to copy a parent directory into any of its children directories
+b-11 (Copy) Write JavaDoc for Copy class
+b-12 (Copy) Write the JUnit Tests for Copy class
+c-1. (Search) Make the CRC-card for Search Class
+c-2. (Verify) Edit the Verify Class to verify the parameters for search
+c-3. (Prepare) Add a method to  Prepare Class that prepares parameters for Search
+c-4. (Execute) Edit the Execute Class to allow execution of Search command
+c-5. (Search) Add feature to search for a specific file within a directory
+d-1. (Search) Add feature to search for a specific directory within a directory
+d-2. (Search) Create the JavaDoc for the Search Class
+e-1. (Search) Add feature to search for a specific file within multiple directories
+e-2. (Search) Create JUnit Test Cases for the Search Class
+f-1. (Verify) Edit the MakeDirectory Class so that it can make one or more directories
+f-2. (Prepare) Change the Prepare Class method for MakeDirectory
+f-3. (MakeDirectory) Edit the existing JavaDoc for MakeDirectory class
+f-4. (MakeDirectory) Edit the existing JUnit Test Cases for MakeDirectory class
+g-1. (Tree) Create CRC card for the Tree class
+g-2. (Tree) Design the recursive algorithm that starts from the root of the file system for the Tree class
+g-3. (Tree) Apply the recursive algorithm to the Tree class to print out the entire file system
+g-4. (Tree) Format the output of the Tree class into a tree shape with proper indentation
+g-5. (Tree) Write the Javadoc for the Tree class
+g-6. (Execute) Edit the Execute Class to allow execution of Tree command
+g-7. (Verify) Edit the Verify Class to verify the parameters for Tree
+g-8. (Tree) Create JUnit test for the Tree class
+h-1. (Curl) Create the CRC card for the Curl class
+h-2. (Curl) Learn and understand how to retrieve a file from a specified URL
+h-3. (Curl) Design the code to retrieve the text content from the URL
+h-4. (Curl) Write the code to store the text content retrieved into a newly created file in the file system
+h-5. (Curl) Write the Javadoc for the Curl class
+h-6. (Execute) Edit the Execute Class to allow execution of Curl command
+h-7. (Prepare) Change the Prepare Class method for Curl
+h-8. (Verify) Edit the Verify Class to verify the parameters for Curl
+h-9. (Curl) Create JUnit test for the Curl class
+i-1. (SaveJShell) Make the CRC-card for the SaveJShell
+i-2. (SaveJShell) Brainstorm the functionality of this class, actual file system and their interaction
+i-3. (SaveJShell) Learn how to write a file on the user’s computer in Java for SaveJShell Class
+i-4. (Verify) Edit the verify class to make sure the right number of arguments are passed for SaveJShell class
+i-5. (Prepare) Edit the prepare class to make sure SaveJShell is passed with the right format of input
+i-6. (Execute) Edit the Execute Class to allow execution of commands
+i-7. (SaveJShell) Add a feature of writing content on a file to the user’s computer
+i-8. (SaveJShell) Write the initial JavaDoc for the SaveJShell class
+j-1. (Verify) Edit the verify class to make sure the right number of arguments are passed
+j-2. (Prepare) Edit the prepare class to make sure manual class is passed with right format of input
+j-3. (Manual) Edit the existing JavaDoc for Manual class
+j-4. (Manual) Add new methods which return the descriptions of the new commands for Manual class
+k-1. (Search) Add feature to search for a directory within multiple directories
+	
+These tasks are assigned as follows:
+
+User: Awais Aziz
+Tasks: i-1, i-2, i-3, i-4, i-5, i-6, i-7, i-8, j-1, j-2, j-3, j-4
+
+User: Saad Bhatti
+Tasks: c-1, c-2, c-3, c-4, c-5, d-1, d-2, e-1, e-2, f-1, f-2, f-3, f-4, k-1
+
+User: Zumran Nain
+Tasks: a-1, a-2, a-3, a-4, a-5, a-6, a-7, a-8, a-9, b-1, b-2, b-3, b-4, b-5, b-6, b-7, b-8, b-9,b-10, b-11, b-12, 
+
+User: Haowen Chang
+Tasks: g-1, g-2, g-3, g-4, g-5, g-6, g-7, g-8, h-1, h-2, h-3, h-4, h-5, h-6, h-7, h-8, h-9
+

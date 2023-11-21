@@ -1,0 +1,11 @@
+Class name: CommandHandler
+Parent class (if any): None
+Subclasses (if any): MakeDirectory, ChangeDirectory, PrintWorkingDirectory, Concatenate, EchoHandler, EchoOverwrite, EchoAppend, ListContent, Exit, Manual, PushDirectory, PopDirectory, History, Tree, Curl, Search, saveJShell, MoveItem, CopyItem
+
+Responsibilities:
+* Provides a set operations for command such as searching for an object or splitting a string
+
+Collaborators:
+* Directory
+* Path
+* File

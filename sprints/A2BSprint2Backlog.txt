@@ -1,0 +1,90 @@
+Sprint 2 Backlog.
+November 22 to November 30
+
+User Stories from Product Backlog that we will address in this sprint:
+a. As a user, I want to be able to copy and paste a file or directory into another directory, so that I can make a backup for an important item.
+b. As a user, I want to be able to move a file or directory into another directory, so that I can organize my file system.
+c. As a user, I want to be able to save the output of a command in a file, so that I can access it later.
+d. As a user, I want to be able to display the entire file system as a tree, so that I can see the graphical layout of the filesystem. 
+e. As a user, I want to be able to print the contents of a directory and recursively print the content of the directories within that directory, so that I can see all items within the directory.
+f. As a user, I want to be able to load a previously saved JShell session from a given file so that I can resume where I left off previously.
+g. As a user, I want to be able to save a JShell session to a given file stored in my computer so that I can access the session later on.
+h. As a user, I want to be able to see the documentation for a single command so that I can understand how to use that command.
+
+Specific tasks to be accomplished:
+a-1. (MoveItem) Write the CRC-card for the MoveItem class
+a-2. (Verify) Edit the Verify Class to allow ‘mv’ as a valid command
+a-3. (Prepare) Add a method to Prepare Class that prepares arguments for MoveItem Class
+a-4. (Execute) Edit the Execute Class to allow execution of ‘mv’ command
+a-5. (MoveItem) Add feature to move a directory from one directory to another
+a-6. (MoveItem) Add feature to move a file from one directory to another
+a-7. (MoveItem) Write JavaDoc for MoveItem Class
+a-8. (MoveItem) Write the JUnit Tests for MoveItem Class
+b-1. (CopyItem) Write the CRC-card for the CopyItem class
+b-2. (Verify) Edit the Verify Class to allow ‘cp’’ as a valid command
+b-3. (Prepare) Add a method to Prepare Class that prepares arguments for CopyItem Class
+b-4. (Execute) Edit the Execute Class to allow execution of ‘cp’ command
+b-5. (CopyItem) Add feature to copy a directory from one directory to another
+b-6. (CopyItem) Add feature to copy a file from one directory to another
+b-7. (CopyItem) Write JavaDoc for CopyItem Class
+b-8. (CopyItem) Write the JUnit Tests for CopyItem Class
+c-1. (Redirection) Make the CRC-card for Redirection Class
+c-2. (Verify) Edit the Verify Class to check whether redirection is occurring
+c-3. (Error) Change the Error Class name to Output Class
+c-4. (JShell) Change JShell Class to allow redirection of output
+c-5. (Output) Add feature to the Output Class to separate the valid output and an error message
+c-6. (Redirection) Add feature to store the output into a file in Redirection Class
+c-7. (Redirection) Write the JavaDoc for the Redirection Class
+c-8. (Redirection) Create JUnit Test cases for the Redirection Class
+c-9. (commands) Add special symbols to error messages returned by each command
+c-10.(commands) Change print statements in command classes to now return the output
+c-11.(JUnit) Edit the existing JUnit Test Cases due to the changes in the commands 
+d-1. (Tree) Create the JUnit Test cases for Tree Class 
+e-1. (ListContent) Design the recursive structure of the file system to show all files under current directory
+e-2. (ListContent) Extends the functionality from current directory only to any directory with path provided
+e-3. (ListContent) Create the method in ListContent class that uses the recursive structure done to list every content below the desired directory recursively.
+e-4. (ListContent) Generate the Javadoc for the new method in ListContent class
+e-5. (ListContent) Create the JUnit Test cases for the ListContent class
+e-6. (Prepare) Change the Prepare class to enable the newly added functionality of ListContent
+f-1. (LoadJShell) Make the CRC-card for the LoadJShell Class
+f-2. (LoadJShell) Learn how to read a file on the userâ€™s computer in java for LoadJShell class
+f-3. (LoadJShell) Add a feature of reading a file from the userâ€™s computer
+f-4. (LoadJShell) Write the JavaDoc for the LoadJShell class
+f-5. (Prepare) Edit the prepare class to make sure LoadJShell is passed with the right format of input
+f-6. (Verify) Edit the verify class to make sure the right number of arguments are passed for LoadJShell class
+f-7. (Execute) Edit the Execute Class to allow execution of commands
+f-8. (Path) Implement generic in the path class
+g-1. (SaveJShell) Modify the CRC-card for the SaveJShell
+g-2. (SaveJShell) Complete the functionality for the saveJShell class
+g-3. (SaveJShell) Finish the JavaDoc for the SaveJShell class
+g-4. (Prepare) Edit the prepare class to make sure SaveJShell is passed with the right format of input
+g-5. (Verify) Edit the verify class to make sure the right number of arguments are passed for SaveJShell class
+h-1. (Manual) Update the existing JavaDoc for Manual class 
+h-2. (Manual) Add the new commands in the existing Manual class with their new functionality
+h-3. (Manual) Create JUnit test for the Manual class
+i-1. (JUnit) Create the JUnit Test cases for History from 2A
+i-2. (JUnit) Create the JUnit Test cases for PushDirectory  from 2A
+i-3. (JUnit) Create the JUnit Test cases for PopDirectory from 2A
+i-4. (JUnit) Create the JUnit Test cases for ChangeDirectory from 2A
+i-5. (JUnit) Create the JUnit Test cases for Concatenate from 2A
+i-6. (JUnit) Create the JUnit Test cases for CommandHandler from 2A
+i-7. (JUnit) Create the JUnit Test cases for EchoAppend from 2A
+i-8. (JUnit) Create the JUnit Test cases for EchoHandler from 2A
+i-9. (JUnit) Create the JUnit Test cases for  EchoOverwrite Class from 2A  
+I-10 (JUnit) Create the JUnit Test cases for Exit Class from 2A  
+
+
+	
+These tasks are assigned as follows:
+
+User: Awais Aziz
+Tasks: f-1, f-2, f-3, f-4, f-5, f-6, f-7, f-8, g-1, g-2, g-3, g-4, g-5, h-1, h-2, h-3
+
+User: Saad Bhatti
+Tasks: a-1, a-2, a-3, a-4, a-5, a-6, a-7, a-8, b-1, b-2, b-3, b-4, b-5, b-6, b-7, b-8, c-1, c-2, c-3, c-4, c-5, c-6, c-7, c-8, c-9, c-10, c-11
+
+User: Zumran Nain
+Tasks: i-1, i-2, i-3, i-4, i-5, i-6, i-7, i-8, i-9, i-10
+
+User: Haowen Chang
+Tasks: d-1, e-1, e-2, e-3, e-4, e-5, e-6

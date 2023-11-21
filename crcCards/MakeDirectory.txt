@@ -1,0 +1,10 @@
+Class name: MakeDirectory
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Creates directories with each specified by a path that contains the directory's name  
+
+Collaborators:
+* ChangeDirectory
+* Directory

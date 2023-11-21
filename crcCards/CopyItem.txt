@@ -1,0 +1,14 @@
+Class name: CopyItem
+Parent class (if any); CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Copies the content of a file to another file
+* Copies a file into another directory
+* Recursively copies a directory and its children into another directory
+
+Collaborators:
+* Directory
+* File
+* ChangeDirectory
+* PrintWorkingDirectory

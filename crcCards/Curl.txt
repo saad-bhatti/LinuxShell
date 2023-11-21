@@ -1,0 +1,11 @@
+Class name: Curl
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Retrieves the file from given URL
+* Create a new file in the file system
+* Write in the retrieved contents in the newly created file
+
+Collaborators:
+* EchoOverwrite

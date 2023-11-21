@@ -1,0 +1,9 @@
+Class name: ChangeDirectory
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Change the current working directory to a given directory
+
+Collaborators:
+* Directory

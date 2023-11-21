@@ -1,0 +1,10 @@
+Class name: LoadJShell
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Reads a file from the user computer
+* Initializes the current status of the JShell to the previously saved JShell
+
+Collaborators:
+* None

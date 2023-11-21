@@ -1,0 +1,10 @@
+Class name: Execute
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Executes the commands specified by the user
+* Passes the arguments prepared to the specific command
+
+Collaborators:
+* CommandHandler

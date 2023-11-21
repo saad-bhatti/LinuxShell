@@ -1,0 +1,12 @@
+Class name: Output
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Prints the successful output returned by a command
+* Prints the error message returned by a command
+* Redirects the successful output into a file
+
+Collaborators:
+* EchoAppend
+* EchoOverwrite

@@ -1,0 +1,10 @@
+Class name: History
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Returns all past commands given by the user
+* Returns a given number of recent commands
+
+Collaborators:
+* Log

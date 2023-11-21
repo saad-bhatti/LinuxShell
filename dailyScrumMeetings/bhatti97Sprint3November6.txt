@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Pair programming with Awais on Exit.java, JShell.java, CommandHandler.java
+    - Completed ListContent.java, Concatenate.java, FileSystem.java, CommandOperation.java, Verify.java, Error.java, Prepare.java
+    - Edited ChangeDirectory.java, MakeDirectory.java
+
+What do I plan to work in the next three days?
+    - Make JUnit Test Case for MakeDirectory.java
+    - Complete JavaDoc for CommandHandler.java
+    - Edit command classes to increase optimization and decrease repitition of code
+    - Design a replacement for the interface CommandOperation.java 
+
+Am I blocked on anything?
+    - None

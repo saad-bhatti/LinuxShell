@@ -1,0 +1,11 @@
+Class name: File
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Contains the name of the file
+* Contains the contents of the file
+* Layout the structure of the file
+
+Collaborators:
+* None

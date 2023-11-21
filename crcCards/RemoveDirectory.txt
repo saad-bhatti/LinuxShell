@@ -1,0 +1,10 @@
+Class name: RemoveDirectory
+Parent class (if any); CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+*Removes a directory and its respective children directories from the file system.
+
+Collaborators:
+* ChangeDirectory
+* PrintWorkingDirectory

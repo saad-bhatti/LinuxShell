@@ -1,0 +1,9 @@
+Class name: PrintWorkingDirectory
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Prints the absolute path from root directory to current directory
+
+Collaborators:
+* None

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Updated EchoHandler, EchoOverwrite, EchoAppend to satisfy new changes to structure
+    - Worked on code for the next sprint
+
+What do I plan to work in the next three days?
+    - Change previous commands' code due change in structure (For Sprint 3)
+    - Change return values of commands from previous sprints (For Sprint 3)
+    - Upload new .java files (Sprint 3)
+
+Am I blocked on anything?
+    - None

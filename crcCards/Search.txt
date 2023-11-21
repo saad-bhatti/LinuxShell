@@ -1,0 +1,12 @@
+Class name: Search
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Recursively search for a file/directory by its name within the children of a specified path
+* Recursively search for a file/directory by its name within the children of multiple paths
+* Return all paths of the items found with the specified name
+
+Collaborators:
+* ChangeDirectory
+* PrintWorkingDirectory

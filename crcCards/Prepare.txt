@@ -1,0 +1,10 @@
+Class name: Prepare
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Prepares the arguments for execution of the command
+
+Collaborators:
+* Stack
+* Log

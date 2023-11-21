@@ -1,0 +1,10 @@
+Class name: Tree
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Displays the entire file system from the root directory
+* Displays the file system in a tree format with proper indentation
+
+Collaborators:
+* ChangeDirectory

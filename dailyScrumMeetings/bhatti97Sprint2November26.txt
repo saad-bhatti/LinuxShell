@@ -1,0 +1,25 @@
+What did I work on in the last three days?
+    - Added the CRC Card of CopyItem and MoveItem Classes
+    - Created JUnit Test Cases for CopyItem and MoveItem Classes
+    - Edited Verify class to allow copy and move commands to be a valid input
+    - Edited Prepare class to prepare arguments for the copy and move command 
+    - Edited Execution class to allow execution of the copy and move command
+    - Completed the code for CopyItem and MoveItem classes with all features
+    - Created JavaDoc for the CopyItem and MoveItem class
+
+What do I plan to work in the next three days?
+    - Edit the JUnit test cases for CopyItem and MoveItem classes
+    - Create the CRC card for Redirection Class
+    = Edit the Verify Class to check whether redirection is occurring
+    - Change the Error Class name to Output Class
+    - Change JShell Class to allow redirection of output
+    - Add feature to the Output Class to separate the valid output and an error message
+    - Add feature to store the output into a file in Redirection Class
+    - Write the JavaDoc for the Redirection Class
+    - Create JUnit Test cases for the Redirection Class
+    - Edit the error statements returned by classes created in A2a and Sprint 1
+    - Edit the existing JUnit Test Cases due to the changes in the commands 
+    
+
+Am I blocked on anything?
+    - Need Awais to commit his JShell edits so I can start Redirection

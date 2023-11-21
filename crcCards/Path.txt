@@ -1,0 +1,10 @@
+Class name: Path
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Contains a path to a specific file or directory
+* Contains either a full path or relative path
+
+Collaborators:
+* None

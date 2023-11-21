@@ -1,0 +1,10 @@
+Class name: SaveJShell
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Creates an actual file on the user computer if it does not exist
+* Stores the current status of the JShell to the file
+
+Collaborators:
+* None

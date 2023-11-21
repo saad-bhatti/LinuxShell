@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - brainstormed design ideas with team for JShell class and File class.
+    - designed the File class and MakeDirectory class. 
+
+What do I plan to work in the next three days?
+    - write the code for File class and MakeDirectory command.
+    - start designing and writing code for ChangeDirectory command.
+    - Work on the shell to have it continously prompt the user for input. 
+
+Am I blocked on anything?
+    - Need Path class and Directory class done before writing code for MakeDirectory and ChangeDirectory commands.
+    - Need structure of the shell finalized before working on the shell prompter.

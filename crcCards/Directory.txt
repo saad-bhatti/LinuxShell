@@ -1,0 +1,12 @@
+Class name: Directory
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Contains the name of the directory
+* Keeps track of the files and directories inside the directory
+* Keeps track of the parent directory of a directory
+* Layout the structure of the directory
+
+Collaborators:
+* File

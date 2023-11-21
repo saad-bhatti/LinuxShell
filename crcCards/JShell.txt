@@ -1,0 +1,17 @@
+Class name: JShell
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Continuously prompts the user for input
+* Scans and gets the user input
+
+Collaborators:
+* FileSystem 
+* Log 
+* Output
+* Parse
+* Verify
+* Prepare
+* Execute
+* LoadJShell

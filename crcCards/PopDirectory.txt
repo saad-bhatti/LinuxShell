@@ -1,0 +1,10 @@
+Class name: PopDirectory
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+*Return to the most recent saved directory saved in the stack
+
+Collaborators:
+* ChangeDirectory
+* Stack

@@ -1,0 +1,54 @@
+Sprint 2 Backlog.
+October 28 to November 03
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to be able to see a particular number of recent commands executed on the shell so that I can recall my previous steps.
+b) As a user, I want to be able to see all of the recent commands executed on the shell so that I can recall all that I have done.
+c) As a user, I want to be able to give text input and have it displayed so that I can see what I just typed.
+d) As a user, I want to be able to store text in a new file so that I can access that text later on.
+e) As a user, I want to be able to overwrite the text of an existing file so that I can replace that file with new information.
+f) As a user, I want to be able to append text to an existing file so that I can add additional text to the existing file.
+g) As a user, I want to be able to save the current directory so that I can access it later.
+h) As a user, I want to be able to return to the most recent saved directory so that I can easily visit a previous location.
+i) As a user, I want to display content of a file on the shell so that I can check the content of that file.
+j) As a user, I want to display the content of multiple files one after another on the shell so that I can check the content of multiple files at the same time.
+k) As a user, I want to be able to see the documentation for a command so that I can understand how to use that command.
+l) As a user, I want to be able to quit the program so that I can leave safely.
+m) As a user, I want to continuously enter commands into the shell until I exit so that I can execute operations.
+
+Specific tasks to be accomplished:
+a-1. (Log) Create a Log class to record all user inputs
+a-2. (History) Design and write the code for History class when user input a particular number
+b-1. (History) Add function to History class when no user input is given
+c-1. (EchoHandler) Brainstorm how EchoHandler will act as a parent class
+c-2. (EchoHandler) Design code for EchoHandler class
+c-3. (EchoHandler) Write code for the EchoHandler class
+d-1. (EchoOverwrite) Write code for EchoOverwrite class when no overwriting
+e-1. (EchoOverwrite) Write code for the EchoOverwrite class when there is overwriting
+f-1. (EchoAppend) Design code for EchoAppend class
+f-2. (EchoAppend) Write code for the EchoAppend class
+g-1. (PushDirectory) Design and implement the PushDirectory class
+h-1. (PopDirectory) Design and implement the PopDirectory class
+i-1. (JShell) Design and implement the  ListContent class
+j-1. (JShell) Design and implement the Concatenate class
+k-1. (Manual) Design and write the base code for the manual class
+k-2. (Manual) Brainstorm the functionality of all the other class and document it
+k-3. (CommandHandler) Brainstorm how to implement crc-card into code
+k-4. (CommandHandler) Write the base code for the command Handler class
+k-5. (PrintWorkingDirectory) Modify print working class directory accordingly after implementing the parent class Command Handler
+l-1. (Exit) Design and write code for Exit class 
+m-1. (JShell) Begin coding the structure of the command line interpreter
+
+These tasks are assigned as follows:
+
+User: Awais Aziz
+Tasks: k-1, k-2, k-3, k-4, k-5
+
+User: Haowen Chang
+Tasks: a-1, a-2, b-1, g-1, h-1
+
+User: Zumran Nain
+Tasks: i-1, j-1, l-1, m-1
+
+User: Saad Bhatti
+Tasks: c-1, c-2, c-3, d-1, e-1, f-1, f-2

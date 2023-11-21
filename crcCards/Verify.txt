@@ -1,0 +1,12 @@
+Class name: Verify
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Checks if the command exists or not
+* Checks if the user input satisfies the command requirements
+* Checks if the file name provided for redirection is valid
+* Checks if the output of the command provided can be redirected 
+
+Collaborators:
+* None

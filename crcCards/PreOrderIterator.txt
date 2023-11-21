@@ -1,0 +1,9 @@
+Class name: PreOrderIterator
+Parent class (if any): Iterator
+Subclasses (if any): None
+
+Responsibilities:
+* Creates an iterator which iterates over the file system in a pre-order fashion
+
+Collaborators:
+* Directory

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Pair programming with Zumran for Parse.java
+    - Added initial versions of EchoHandler, EchoOverwrite, EchoAppend
+    - Edited the collaborators of EchoOverwrite, EchoAppend
+
+What do I plan to work in the next three days?
+    - Add the JavaDoc for EchoHandler, EchoOverwrite, EchoAppend
+    - Complete the .java files of EchoHandler, EchoOverwrite, EchoAppend
+    - Update the CRC cards of EchoHandler, EchoOverwrite, EchoAppend
+
+Am I blocked on anything?
+    - Need the FileSystem.java 

@@ -1,0 +1,22 @@
+What did I work on in the last three days?
+    - Pair programming with Haowen on ListContent Class
+    - Pair programming with Zumran on JUnit Test Cases
+    - Edited the JUnit test cases for CopyItem and MoveItem classes
+    - Edited the error statements returned by classes created in A2a and Sprint 1
+    - Edited the existing JUnit test cases due to change in error statements
+    - Edited the Parse Class to separate the command from the redirection portion
+    - Edited the Verify Class to check whether redirection is occurring
+    - Changed JShell Class for redirection
+    - Changed the Error Class name to Output Class
+    - Add feature to the Output Class to separate the valid output and an error message
+    - Edited the Output Class to either print the output or redirect it 
+    - Created JUnit test cases for all classes in the fileSystem package
+    - Finished redirection process
+    - Changed History and Concatenate to return the output instead of printing it
+    - Created JavaDoc for JUnit Test Cases and new methods created
+
+What do I plan to work in the next three days?
+    - Resolve any bugs that arise while testing
+
+Am I blocked on anything?
+    - None

@@ -1,0 +1,11 @@
+Class name: EchoOverwrite
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Creates a new file with specified name if there does not exists such file in the given directory
+* Overwrites the text of the file with the text given by the user
+
+Collaborators:
+* ChangeDirectory
+* File

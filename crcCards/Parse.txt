@@ -1,0 +1,10 @@
+Class name: Parse
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Separates the input into command and parameters for the command
+* Separates the input into command related and redirection related segments
+
+Collaborators:
+* None

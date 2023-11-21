@@ -1,0 +1,11 @@
+Class name: MockFileSystem
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Manually sets up a mock file system without the use of any commands
+* Provides methods required during JUnit Testing
+
+Collaborators:
+* Directory
+* File

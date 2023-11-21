@@ -1,0 +1,10 @@
+Class name: Stack
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Stores a stack of strings
+* Returns the top string in the stack
+
+Collaborators:
+* None

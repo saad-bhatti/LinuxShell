@@ -1,0 +1,19 @@
+| As a user, I want to continuously enter commands into the shell until I exit so that I can execute operations                                                 | 5 hours     |
+| As a user, I want to be able to quit the program so that I can leave safely. 											| 1 hour      |
+| As a user, I want to be able to create directories so that I can store files.  										| 3 - 4 hours |
+| As a user, I want to be able to change directories so that I can access files of a different directory. 							| 3 hours     |
+| As a user, I want to be able to print the contents of my current directory so that I can see the files in the current directory. 				| 1 - 2 hours |
+| As a user, I want to be able to print the contents of a directory whose path I provide so that I can see the files inside that directory.			| 2 hours     |
+| As a user, I want to be able to have the path of a specified file returned so that I can see if that file exists.						| 1 hours     |
+| As a user, I want to be able to print the full path of the current working directory so that I can see where I am currently at.				| 5 hours     |
+| As a user, I want to display content of a file on the shell so that I can check the content of that file.							| 5 - 6 hours |
+| As a user, I want to display the content of multiple files one after another on the shell so that I can check the content of multiple files at the same time. | 4 - 5 hours |
+| As a user, I want to be able to see a particular number of recent commands executed on the shell so that I can recall my previous steps. 			| 4 - 5 hours |
+| As a user, I want to be able to see all of the recent commands executed on the shell so that I can recall all that I have done.  				| 1 - 2 hours |   
+| As a user, I want to be able to store text in a new file so that I can access that text later on.   								| 2 - 3 hours |
+| As a user, I want to be able to overwrite the text of an existing file so that I can replace that file with new information. 					| 1 - 2 hours |
+| As a user, I want to be able to append text to an existing file so that I can add additional text to the existing file.	                                | 2 - 3 hours |
+| As a user, I want to be able to give text input and have it displayed so that I can see what I just typed.	                                                | 1 hour      |
+| As a user, I want to be able to see the documentation for a command so that I can understand how to use that command. 	                                | 3 - 4 hours |
+| As a user, I want to be able to save the current directory so that I can access it later.                                                                     | 5 - 6 hours |
+| As a user, I want to be able to return to the most recent saved directory so that I can easily visit a previous location.	                                | 4 - 5 hours |

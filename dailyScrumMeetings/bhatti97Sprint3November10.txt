@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Pair programming with Awais on Exit.java, CommandHandler.java, ChangeDirectory.java, Concatenation.java, EchoAppend.java, EchoOverwrite.java, ListContent.java, MakeDirectory.java, Error.java
+    - Pair programming with Haowen on History.java, PopDirectory.java, PushDirectory.java
+    - Updated the CommandHandler.java and all of its subclasses due to design change
+    - Completed JavaDoc for CommandHandler.java
+    - Completed JUnit Test Cases for MakeDirectory.java
+
+What do I plan to work in the next three days?
+    - Fix a bug related to making a directory.
+
+Am I blocked on anything?
+    - None

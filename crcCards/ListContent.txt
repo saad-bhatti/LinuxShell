@@ -1,0 +1,13 @@
+Class name: ListContent
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Lists all contents of the given directory
+* Returns the relative path of a file if the input file exists
+* Recursively lists the content of a directory and all of its children directories
+
+Collaborators:
+* ChangeDirectory
+* Directory
+* PrintWorkingDirectory

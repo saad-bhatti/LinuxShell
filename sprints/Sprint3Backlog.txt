@@ -1,0 +1,100 @@
+Sprint 3 Backlog.
+November 4 to November 10
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to continuously enter commands into the shell until I exit so that I can execute operations.
+b) As a user, I want to be able to quit the program so that I can leave safely.
+c) As a user, I want to display content of a file on the shell so that I can check the content of that file.
+d) As a user, I want to display the content of multiple files one after another on the shell so that I can check the content of multiple files at the same time.
+e) As a user, I want to be able to see the documentation for a command so that I can understand how to use that command.
+f) As a user, I want to be able to print the contents of my current directory so that I can see the files in the current directory.
+g) As a user, I want to be able to print the contents of a directory whose path I provide so that I can see the files inside that directory.
+h) As a user, I want to be able to have the path of a specified file returned so that I can see if that file exists.
+
+Specific tasks to be accomplished:
+a-1. (JShell) Edit the CRC card for JShell Class
+a-2. (JShell) Edit the code for JShell according to new changes in structure
+a-3. (Parse) Edit the CRC card for Parse Class
+a-4. (Parse) Edit the code for Parse Class
+a-5. (Parse) Write the JavaDoc for Parse Class
+a-6. (Verify) Edit the CRC card for Verify Class
+a-7. (Verify) Design and write the code for Verify Class
+a-8. (Verify) Write the JavaDoc for Verify Class
+a-9. (Prepare) Make CRC for Prepare Class
+a-10. (Prepare) Design and write the code for Prepare Class
+a-11. (Prepare) Write the JavaDoc for Prepare Class
+a-12. (Execute) Make the CRC card for Execute Class
+a-13. (Execute) Design and write the code for Execute Class
+a-14. (Execute) Write the JavaDoc for Execute Class
+a-15. (Error) Design and write the code for Error Class
+a-16. (Error) Write the JavaDoc for Error Class
+b-1. (Exit) Edit the code for Exit Class due to new design
+b-2. (Exit) Create the JavaDoc for Exit Class
+c-1. (Concatenate) Edit the CRC card for Concatenate
+c-2. (Concatenate) Edit the code for Concatenate Class to print content of one file
+d-1. (Concatenate) Edit the code for Concatenate Class to print content of multiple files
+d-2. (Concatenate) Make the JavaDoc for Concatenate Class
+e-1. (Manual) Edit the CRC Card for Manual Class
+e-2. (Manual) Update the code for the Manual Class
+e-3. (Manual) Make the JavaDoc for Manual Class
+f-1. (ListContent) Edit the CRC card for ListContent Class
+f-2. (ListContent) Edit the code for ListContent Class to print the content of the current directory
+g-1. (ListContent) Edit the code for ListContent Class to print the content of a directory specified by a path.
+h-1. (ListContent) Edit the code for ListContent Class to print the path of a specified file
+h-2. (ListContent) Make the JavaDoc for ListContent Class
+i-1. (FileSystem) Make the CRC card for FileSystem Class
+i-2. (FileSystem) Design and write the code for FileSystem Class
+i-3. (FileSystem) Write the JavaDoc for FileSystem Class
+j-1. (Directory) Edit the JavaDoc for Directory Class
+k-1. (File) Edit the code for File Class due to new design
+k-2. (File) Create the JavaDoc for File Class
+l-1. (Path) Update the code for Path Class due to new design
+l-2. (Path) Create JavaDoc for Path Class
+m-1. (PrintWorkingDirectory) Edit the CRC card for PrintWorkingDirectory Class
+m-2. (PrintWorkingDirectory) Update the code for PrintWorkingDirectory Class due to new design
+m-3. (PrintWorkingDirectory) Make the JavaDoc for PrintWorkingDirectory
+m-4. (PrintWorkingDirectory) Create JUnit Test Case for PrintWorkingDirectory
+n-1. (CommandOperation) Make the Interface CRC card for CommandOperation Class
+n-2. (CommandOperation) Write the code for the CommandOperation Class
+o-1. (Log) Make the JavaDoc for Log
+p-1. (PushDirectory)  Edit the CRC card for PushDirectory Class
+p-2. (PushDirectory) Update the code for PushDirectory Class
+p-3. (PushDirectory) Make the JavaDoc for PushDirectory Class
+q-1. (PopDirectory) Edit the CRC card for PopDirectory Class
+q-2. (PopDirectory) Update the code for PopDirectory Class
+q-3. (PopDirectory) Make the JavaDoc for PopDirectory Class
+r-1. (MakeDirectory) Edit the CRC card for MakeDirectory
+r-2. (MakeDirectory) Update the code for MakeDirectory Class due to new design
+r-3. (MakeDirectory) Make the JavaDoc for MakeDirectory Class
+r-4. (MakeDirectory) Create JUnit Test Case for MakeDirectory
+s-1. (ChangeDirectory) Edit the CRC card for ChangeDirectory
+s-2. (ChangeDirectory) Update the code for ChangeDirectory Class due to new design
+s-3. (ChangeDirectory) Make the JavaDoc for ChangeDirectory Class
+s-4. (ChangeDirectory) Create JUnit Test Case for ChangeDirectory
+t-1. (History) Edit the CRC card for History Class
+t-2. (History) Create JavaDoc for History Class
+u-1. (EchoAppend) Edit the CRC card for EchoAppend Class
+u-2. (EchoAppend) Create the JavaDoc for EchoAppend Class
+u-3. (EchoOverwrite) Edit the CRC card for EchoOverwrite Class
+u-4. (EchoOverwrite) Create the JavaDoc for EchoOverwrite Class
+u-5. (EchoHandler) Edit the CRC card for EchoHandler Class
+u-5. (EchoHandler) Create the JavaDoc for EchoHandler Class
+v-1. (Stack) Make the CRC card for Stack Class
+v-2. (Stack) Adjust the Stack class according to PushDirectory and PopDirectory methods
+v-3. (Stack) Make the JavaDoc for Stack Class
+w-1. (CommandHandler) Make the JavaDoc for Command Handler Class
+w-2. (CommandHandler) Update the code for Command Handler Class due to new design
+
+These tasks are assigned as follows:
+
+User: Awais Aziz
+Tasks: a-13, a-14, d-2, e-2, e-3, j-1, l-1, l-2, m-2, m-3, m-4, r-3, w-2
+
+User: Haowen Chang
+Tasks: a-5, a-8, a-11, a-16, b-2, h-2, i-3, k-2, o-1, p-2, p-3, q-2, q-3, s-3, t-2, u-2, u-4, u-6, v-2, v-3
+
+User: Zumran Nain
+Tasks: a-1, a-3, a-6, a-9, a-12, c-1, e-1, f-1, i-1, m-1, n-1, p-1, q-1,r-1, s-1, s-4, t-1, u-1, u-3, u-5, v-1
+
+User: Saad Bhatti
+Tasks: a-2, a-4, a-7, a-10, a-15, b-1, c-2, d-1, f-2, g-1, h-1, i-2, k-1, n-2, r-2, r-4, s-2, w-1

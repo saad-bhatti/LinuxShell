@@ -1,0 +1,11 @@
+Class name: Concatenate
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Returns the content of a file specified by a relative/absolute path 
+* Returns the content of multiple files specified by multiple paths
+
+Collaborators:
+* ChangeDirectory
+* File

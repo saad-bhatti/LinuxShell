@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - Added the CRC Card of Search Class
+    - Created JUnit Test Cases for SearchTest
+    - Edited Verify class to allow search command to be a valid input
+    - Edited Prepare class to prepare arguments for the search command 
+    - Edited Execution class to allow execution of the search command
+    - Completed the code for Search class with all features
+    - Created JavaDoc for the Search class
+    - Pair programming with Zumran on RemoveDirectory Class
+
+What do I plan to work in the next three days?
+    - Write the Sprint Backlog for Sprint 2 (with team)
+    - Edit my specific tasks for Sprint 1 Backlog to remove errors
+
+Am I blocked on anything?
+    - Nothing as of yet

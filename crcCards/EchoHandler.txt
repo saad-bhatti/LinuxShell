@@ -1,0 +1,9 @@
+Class name: EchoHandler
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Returns the given text
+
+Collaborators:
+* None

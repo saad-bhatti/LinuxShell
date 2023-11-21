@@ -1,0 +1,13 @@
+Class name: MoveItem
+Parent class (if any); CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Moves a file to another directory, overwriting any existing file of the same name in the destination
+* Recursively move a directory and its children into another directory
+
+Collaborators:
+* Directory
+* File
+* ChangeDirectory
+* PrintWorkingDirectory

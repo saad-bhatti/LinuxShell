@@ -1,0 +1,18 @@
+What did I work on in the last three days?
+    - Edited the CRC Card of MakeDirectory Class
+    - Edited the existing JUnit Test Cases for MakeDirectoryTest
+    - Edited the Verify class to allow multiple directories to be created at once
+    - Created an iterator for the FileSystem.java
+    - Designed general structure of the Search class
+
+What do I plan to work in the next three days?
+    - Create the CRC-Card Search Class
+    - Edit Verify Class to verify the parameters given for search
+    - Edit Prepare Class to prepare the arguments for search
+    - Edit Execution to allow execution of the search command
+    - Write the code for the Search Class
+    - Write the JUnit Test Cases for Search Class
+    - Write JavaDoc for the Search Class
+
+Am I blocked on anything?
+    - Nothing as of yet

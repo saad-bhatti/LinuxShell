@@ -1,0 +1,44 @@
+Sprint 1 Backlog.
+October 21 to October 27
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a. As a user, I want to be able to print the full path of the current working directory so that I can see where I am currently at.
+b. As a user, I want to be able to quit the program so that I can leave safely.
+c. As a user, I want to be able to create directories so that I can store files.
+d. As a user, I want to be able to change directories so that I can access files of a different directory.
+e. As a user, I want to be able to print the contents of my current directory so that I can see the files in the current directory.
+f. As a user, I want to be able to have the path of a specified file returned so that I can see if that file exists.
+g. As a user, I want to be able to print the contents of a directory whose path I provide so that I can see the files inside that directory.
+h. As a user, I want to continuously enter commands into the shell until I exit so that I can execute operations.
+
+Specific tasks to be accomplished:
+a-1. (Path) Design and write the base code for the Path class
+a-2. (Directory) Design and write the base code for the Directory class
+a-3. (PrintWorkingDirectory) Design code for PrintWorkingDirectory class
+a-4. (PrintWorkingDirectory) Start developing code for the foundation of PrintWorkingDirectory class
+b-1. (Exit) Design and write code for Exit class
+c-1. (MakeDirectory) Design code for the MakeDirectory class
+d-1. (ChangeDirectory) Write the code for the ChangeDirectory class
+e-1. (File) Write the base code for the File class
+e-2. (ListContent) Design code for the ListContent class
+e-3. (ListContent) Write code for the foundation of the ListContent class when no given input
+f-1. (ListContent) Add function to the ListContent class when specific path (Relative and absolute) to a file is given
+g-1. (ListContent) Additional behavior added to the ListContent class to print the contents of a directory whose path (absolute and relative) is provided
+h-1. (JShell) Begin coding the structure of the command line interpreter
+h-2. (Parse) Parse the user input for proper keywords
+h-3. (JShell) Have the shell continually prompt the user for input
+
+These tasks are assigned as follows:
+
+User: Awais Aziz
+Tasks: a-1, a-2, a-3, a-4
+
+User: Haowen Chang
+Tasks: e-2, e-3, f-1, g-1
+
+User: Zumran Nain
+Tasks: b-1, h-1, h-2
+
+User: Saad Bhatti
+Tasks: c-1, d-1, e-1, h-3

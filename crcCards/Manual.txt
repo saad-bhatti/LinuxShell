@@ -1,0 +1,9 @@
+Class name: Manual
+Parent class (if any): CommandHandler
+Subclasses (if any): None
+
+Responsibilities:
+* Prints documentation of the commands specified by the user
+
+Collaborators:
+* None

@@ -1,0 +1,9 @@
+Class name: Exit
+Parent class: CommandHandler
+Subclasses: None
+
+Responsibilities:
+* Terminate the Jshell properly
+
+Collaborators:
+* None
