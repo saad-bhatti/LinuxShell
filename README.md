@@ -11,6 +11,34 @@
 
 LinuxShell is a project that aims to replicate the functionality of a Linux shell. The project is divided into two parts. The first part is a simple shell that can execute basic commands. The second part is an extension of the first part, adding more complex commands and features.
 
+## Usage
+
+### Prerequisites
+
+- [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- [JUnit 5](https://junit.org/junit5/)
+- [Eclipse](https://www.eclipse.org/downloads/)
+
+### Running the shell (in Eclipse)
+
+1. Clone the repository.
+2. Open the project in Eclipse as a Java project.
+3. In the build path, add the libraries: `JavaSE-11` in *Modulepath* and `JUnit 5` in *Classpath*
+
+5. Open `src/driver/JShell.java` and run the file.
+6. The shell will start and you can start entering commands.
+
+### Terminating the shell (in Eclipse)
+This shell can be terminated either by:
+- entering the command `exit` within the shell or
+- clicking the red square button in the Eclipse console.
+
+### Running the tests (in Eclipse)
+
+1. Select the `test` folder in the project.
+2. Right-click and select `Run As` > `JUnit Test`.
+3. The tests will run and the results will be displayed in the JUnit tab.
+
 ## Technical Features
 
 The project is developed using Java and follows the Agile methodology. The project is divided into sprints, with each sprint having its own backlog. The project is developed using the Test-Driven Development (TDD) approach, with JUnit tests being written before the actual code. The project also follows the SOLID principles.
@@ -60,15 +88,10 @@ _input... - implies a possibility of a list of inputs._
 ## File structure
 
 **`crcCards/`** - Contains the CRC cards for the project.
-
 **`dailyScrumMeetings/`** - Contains the daily scrum meeting reports.
-
 **`instructions/`** - Contains the instructions for the project.
-
 **`productBacklog/`** - Contains the product backlogs for both parts of the project.
-
 **`sprints/`** - Contains the backlogs for each sprint of the development process.
-
 **`src/`** - Contains the source code for the project.
 
 - **`commands/`** - Contains the classes representing unix shell commands.
