@@ -60,10 +60,15 @@ _input... - implies a possibility of a list of inputs._
 ## File structure
 
 **`crcCards/`** - Contains the CRC cards for the project.
+
 **`dailyScrumMeetings/`** - Contains the daily scrum meeting reports.
+
 **`instructions/`** - Contains the instructions for the project.
+
 **`productBacklog/`** - Contains the product backlogs for both parts of the project.
+
 **`sprints/`** - Contains the backlogs for each sprint of the development process.
+
 **`src/`** - Contains the source code for the project.
 
 - **`commands/`** - Contains the classes representing unix shell commands.
